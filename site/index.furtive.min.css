@@ -454,3 +454,10 @@ table td,table th{
 	word-wrap:normal;
 	line-height:1
 }
+.py2#header{
+	border-bottom:.3rem solid #999;
+}
+#header .h2{
+	font-family: "Tiempos Headline",serif;
+	margin:.5rem 0 .5rem;
+}
