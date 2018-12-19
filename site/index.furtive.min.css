@@ -244,15 +244,17 @@ a:active,a:focus,a:hover{
 	padding-bottom:1rem
 }
 .p2{
-	padding:2rem
+	padding:2rem;
+	padding-bottom:.5rem
 }
 .px2{
 	padding-left:2rem;
 	padding-right:2rem
 }
 .py2{
-	padding-top:2rem;
-	padding-bottom:2rem
+	padding-top:0;
+	padding-bottom:0;
+	border-bottom:.3rem solid #999
 }
 html{
 	font-size:12px
@@ -468,4 +470,7 @@ table td,table th{
 #header .h2{
 	font-family: "Tiempos Headline",serif;
 	margin:.5rem 0 .5rem;
+}
+.measure.p2 h3{
+	margin-top:.75rem;
 }
