@@ -12,7 +12,8 @@
 	src:url("https://ir1x.github.io/furtive/assets/fonts/CharterITC.woff");
 }
 body{
-	margin:0
+	margin:0 auto;
+	max-width:90%;
 }
 a:active,a:hover{
 	outline:0
