@@ -252,9 +252,8 @@ a:active,a:focus,a:hover{
 	padding-right:2rem
 }
 .py2{
-	padding-top:0;
-	padding-bottom:0;
-	border-bottom:.3rem solid #999
+	padding-top:2rem;
+	padding-bottom:2rem;
 }
 html{
 	font-size:12px
