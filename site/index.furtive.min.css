@@ -289,7 +289,9 @@ p{
 	font-size:2.827rem
 }
 .h3,h3{
-	font-size:1.999rem
+	font-size:2.1rem;
+	font-family: "Tiempos Headline",serif;
+	color:#2c3e50;
 }
 .h4,h4{
 	font-size:1.414rem
@@ -466,9 +468,4 @@ table td,table th{
 #header .h2{
 	font-family: "Tiempos Headline",serif;
 	margin:.5rem 0 .5rem;
-}
-.h3, h3{
-	font-size:2.1rem;
-	font-family: "Tiempos Headline",serif;
-	color:#2c3e50;
 }
