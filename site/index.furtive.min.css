@@ -469,15 +469,3 @@ table td,table th{
 	font-family: "Tiempos Headline",serif;
 	margin:.5rem 0 .5rem;
 }
-.py2, .p2{
-	padding-top:0;
-	padding-bottom:0;
-	border-bottom:.3rem solid #999;
-}
-.measure.p2{
-	padding-bottom:.5rem;
-}
-.measure.p2 h3{
-	margin-top:.75rem;
-}
-	
