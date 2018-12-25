@@ -523,68 +523,6 @@ table td,table th{
 	float:right
 }
 
-#home-duality{
-	border-top:.3rem solid #999
-}
-#hpanel1{
-	border-right:.15rem solid #999
-}
-#hpanel2{
-	border-left:.15rem solid #999
-}
-#hdevelop{
-	padding:0;
-	border-bottom:.3rem solid #999;
-	background-position:center;
-	background-size:cover;
-	background-image:url('https://i.ibb.co/dLHWrTt/Bac-M6mm-07.jpg');
-	color:#fff
-}
-#hchat{
-	padding:0;
-	border-bottom:.3rem solid #999;
-	background-position:center;
-	background-size:cover;
-	background-image:url('https://i.ibb.co/dLHWrTt/Bac-M6mm-07.jpg');
-	color:#fff
-}
-#hdevelop div.measure.p2{
-	min-height: 20rem;
-	max-width: 42rem;
-	margin-right: 0;
-	padding-top:3rem;
-	padding-bottom:3rem
-}
-#hchat div.measure.p2{
-	min-height: 20rem;
-	max-width: 42rem;
-	margin-left: 0;
-	padding-top:3rem;
-	padding-bottom:3rem
-}
-#hdevelop div.measure.p2 p{
-	max-width: 30rem;
-	float: left
-}
-#hchat div.measure.p2 p{
-	max-width: 30rem;
-	float: right
-}
-#hchat img, #hdevelop img{
-	max-height: 20rem;
-	margin-top:-3rem;
-	position: absolute;
-	filter:grayscale()
-}
-#hchat{
-	margin-left:-2rem;
-	float:right
-}
-#hdevelop{
-	margin-right:-2rem;
-	float:left
-}
-
 /* Mobile support */
 @media only screen and (max-width:870px) {
 	#tradition {
