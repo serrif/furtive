@@ -570,6 +570,20 @@ table td,table th{
 	max-width: 30rem;
 	float: right
 }
+#hchat img, #hdevelop img{
+	max-height: 20rem;
+	margin-top:-3rem;
+	position: absolute;
+	filter:grayscale()
+}
+#hchat{
+	margin-left:-2rem;
+	float:right
+}
+#hdevelop{
+	margin-right:-2rem;
+	float:left
+}
 
 /* Mobile support */
 @media only screen and (max-width:870px) {
