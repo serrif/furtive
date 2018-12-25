@@ -525,6 +525,9 @@ table td,table th{
 
 /* Mobile support */
 @media only screen and (max-width:870px) {
+	#tradition {
+		min-height:none
+	}
 	#tradition img {
 		display:none
 	}
