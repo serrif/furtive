@@ -517,7 +517,22 @@ table td,table th{
 	float:right
 }
 #tradition p{
+	margin-bottom:0;
 	max-width:30rem;
 	text-align:right;
 	float:right
+}
+
+/* Mobile support */
+@media only screen and (max-width:870px) {
+	#tradition img {
+		display:none
+	}
+	#tradition h3 {
+		float:none
+	}
+	#tradition p {
+		float:none;
+		max-width:none
+	}
 }
