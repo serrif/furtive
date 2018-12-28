@@ -605,6 +605,18 @@ table td,table th{
 #hchat h3{
 	text-align:right
 }
+#joinsrv{
+	padding-bottom:2rem;
+}
+#joinsrv p{
+	background:#eee;
+	padding:1rem;
+	font-size:1.4rem;
+	width:fit-content;
+	margin:1.5rem auto 1.5rem;
+	border:.3rem solid #ccc;
+	font-family:Monaco,"Lucida Console",Courier,monospace
+}
 
 /* Mobile support */
 @media only screen and (max-width:870px) {
