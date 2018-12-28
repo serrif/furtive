@@ -539,17 +539,18 @@ table td,table th{
 	color:#fff
 }
 #hdevelop{
-	background-image:url('https://i.ibb.co/dLHWrTt/Bac-M6mm-07.jpg')
+	background-image:url('https://i.ibb.co/dLHWrTt/Bac-M6mm-07.jpg');
+	padding-left:2rem
 }
 #hchat{
-	background-image:url('https://i.ibb.co/dLHWrTt/Bac-M6mm-07.jpg')
+	background-image:url('https://i.ibb.co/dLHWrTt/Bac-M6mm-07.jpg');
+	padding-right:2rem
 }
 #hdevelop div.measure.p2, #hchat div.measure.p2{
 	min-height:20rem;
 	max-width:42rem;
 	padding-top:3rem;
 	padding-bottom:3rem;
-	padding:2rem
 }
 #hdevelop div.measure.p2{
 	margin-right:0
@@ -600,6 +601,10 @@ table td,table th{
 	clear:right;
 	float:right
 }
+#hdevelop h3, #hchat h3{
+	margin:0
+}
+
 
 /* Mobile support */
 @media only screen and (max-width:870px) {
