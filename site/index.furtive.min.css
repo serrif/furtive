@@ -626,12 +626,12 @@ table td,table th{
 	top:40%
 }
 #joinsrv p:before{
-	background:url(https://cdn-s-assets.arzamas.academy/assets/main-page/hand-left-2x-efb2bc8….png) 50% 50% no-repeat;
+	background:url(https://ir1x.github.io/furtive/assets/img/hand-left.png) 50% 50% no-repeat;
 	left:-120px;
 	background-size:80px
 }
 #joinsrv p:after{
-	background:url(https://cdn-s-assets.arzamas.academy/assets/main-page/hand-right-2x-c1ca7de….png) 50% 50% no-repeat;
+	background:url(https://ir1x.github.io/furtive/assets/img/hand-right.png) 50% 50% no-repeat;
  	right:-120px;
         background-size:80px
 }
