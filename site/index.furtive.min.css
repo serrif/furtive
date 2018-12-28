@@ -540,11 +540,9 @@ table td,table th{
 }
 #hdevelop{
 	background-image:url('https://i.ibb.co/dLHWrTt/Bac-M6mm-07.jpg');
-	padding-left:2rem
 }
 #hchat{
 	background-image:url('https://i.ibb.co/dLHWrTt/Bac-M6mm-07.jpg');
-	padding-right:2rem
 }
 #hdevelop div.measure.p2, #hchat div.measure.p2{
 	min-height:20rem;
@@ -604,7 +602,9 @@ table td,table th{
 #hdevelop h3, #hchat h3{
 	margin:0
 }
-
+#hchat h3{
+	text-align:right
+}
 
 /* Mobile support */
 @media only screen and (max-width:870px) {
