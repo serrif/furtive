@@ -617,6 +617,24 @@ table td,table th{
 	border:.3rem solid #ccc;
 	font-family:Monaco,"Lucida Console",Courier,monospace
 }
+#joinsrv p:before, #joinsrv p:after{
+	content:'';
+	position:absolute;
+	width:80px;
+	height:33px;
+	display:block;
+	top:40%
+}
+#joinsrv p:before{
+	background:url(https://cdn-s-assets.arzamas.academy/assets/main-page/hand-left-2x-efb2bc8….png) 50% 50% no-repeat;
+	left:-120px;
+	background-size:80px
+}
+#joinsrv p:after{
+	background:url(https://cdn-s-assets.arzamas.academy/assets/main-page/hand-right-2x-c1ca7de….png) 50% 50% no-repeat;
+ 	right:-120px;
+        background-size:80px
+}
 
 /* Mobile support */
 @media only screen and (max-width:870px) {
