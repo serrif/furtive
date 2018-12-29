@@ -646,3 +646,10 @@ table td,table th{
 		max-width:none
 	}
 }
+
+@media only screen and (max-width:1380px) {
+	body {
+		max-width:50rem
+	}
+}
+	
