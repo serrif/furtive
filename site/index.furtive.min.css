@@ -641,17 +641,17 @@ table td,table th{
 #fcontact{
 	background-color:#ddddddb8;
 	padding-top:2rem;
-	padding-bottom:2rem
+	padding-bottom:1rem
 }
 #finfo{
 	background-color:#eee;
 	padding-top:2rem;
-	padding-bottom:2rem
+	padding-bottom:1rem
 }
 #fresc{
 	background-color:#eeeeeeb8;
 	padding-top:2rem;
-	padding-bottom:2rem
+	padding-bottom:1rem
 }
 #fcontact h4, #finfo h4, #fresc h4{
 	margin:0;
