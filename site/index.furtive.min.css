@@ -631,22 +631,6 @@ table td,table th{
 }
 
 /* Mobile support */
-@media only screen and (max-width:870px) {
-	#tradition {
-		min-height:unset
-	}
-	#tradition img {
-		display:none
-	}
-	#tradition h3 {
-		float:none
-	}
-	#tradition p {
-		float:none;
-		max-width:none
-	}
-}
-
 @media only screen and (max-width:1380px) {
 	body {
 		max-width:50rem
@@ -668,4 +652,38 @@ table td,table th{
 		margin-right:1rem;
 		margin-left:auto
 	}
-}	
+	#hdevelop img {
+		margin-left:39.5rem
+	}
+	#hchat img {
+		margin-left:-9rem
+	}
+}
+
+@media only screen and (max-width:870px) {
+	#tradition {
+		min-height:unset
+	}
+	#tradition img {
+		display:none
+	}
+	#tradition h3 {
+		float:none
+	}
+	#tradition p {
+		float:none;
+		max-width:none
+	}
+	#hdevelop img, #hchat img {
+		display:none
+	}
+	#hdevelop p, #hchat p {
+		max-width:unset
+	}
+	#hdevelop div.measure.p2 {
+		margin-left:0
+	}
+	#hchat div.measure.p2 {
+		margin-right:0
+	}
+}
