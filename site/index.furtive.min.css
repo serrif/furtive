@@ -629,6 +629,55 @@ table td,table th{
 	margin-top:-5.5rem;
 	margin-right:5rem
 }
+/* Footer */
+#fwrap{
+	border-top:.3rem solid #999
+}
+#fgrdrow{
+	float:left;
+	width:65rem;
+	margin:0
+}
+#fcontact{
+	background-color:#ddddddb8;
+	padding-top:2rem
+}
+#finfo{
+	background-color:#eee;
+	padding-top:2rem
+}
+#fresc{
+	background-color:#eeeeeeb8;
+	padding-top:2rem
+}
+#fcontact h4, #finfo h4, #fresc h4{
+	margin:0;
+	font-family:"Tiempos Headline",serif;
+	padding-left:2.2rem
+}
+#fcontact ul, #finfo ul, #fresc ul{
+	list-style-type:none;
+	margin-left:-.3rem;
+	margin-top:.5rem
+}
+#fcontact ul, #finfo ul, #fresc li{
+	font-family:"Source Sans Pro","Helvetica Neue","Helvetica","Roboto","Arial",sans-serif;
+	font-size:1.02rem
+}
+#flogo{
+	font-family:"Tiempos Headline",serif;
+	width:fit-content;
+	float:right
+}
+#fcopy{
+	margin-top:6rem;
+	margin-right:-2.3rem;
+	text-align:right;
+	font-size:1.02rem;
+	font-family:"Source Sans Pro","Helvetica Neue","Helvetica","Roboto","Arial",sans-serif;
+	width:20rem;
+	float:right
+}
 
 /* Mobile support */
 @media only screen and (max-width:1380px) {
