@@ -640,15 +640,18 @@ table td,table th{
 }
 #fcontact{
 	background-color:#ddddddb8;
-	padding-top:2rem
+	padding-top:2rem;
+	padding-bottom:2rem
 }
 #finfo{
 	background-color:#eee;
-	padding-top:2rem
+	padding-top:2rem;
+	padding-bottom:2rem
 }
 #fresc{
 	background-color:#eeeeeeb8;
-	padding-top:2rem
+	padding-top:2rem;
+	padding-bottom:2rem
 }
 #fcontact h4, #finfo h4, #fresc h4{
 	margin:0;
@@ -677,6 +680,10 @@ table td,table th{
 	font-family:"Source Sans Pro","Helvetica Neue","Helvetica","Roboto","Arial",sans-serif;
 	width:20rem;
 	float:right
+}
+#fgrdrow a{
+	color:#555;
+	text-decoration:none
 }
 
 /* Mobile support */
