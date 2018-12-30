@@ -588,8 +588,11 @@ table td,table th{
 	margin-bottom:0;
 	background:#eee;
 	border:2px solid #999;
-	font-family:"Charter ITC TT",serif;
+	font-family:"Source Sans Pro","Helvetica Neue","Helvetica","Roboto","Arial",sans-serif;
 	font-size:1.11rem;
+}
+#hdevelop a:hover, #hchat a:hover{
+	background:#ddd
 }
 #hdevelop a{
 	clear:left;
