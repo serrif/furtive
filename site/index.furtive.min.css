@@ -687,6 +687,10 @@ table td,table th{
 #fgrdrow a:hover{
 	color:#777
 }
+#logobul{
+	background-color:unset;
+	color:#999
+}
 
 /* Mobile support */
 @media only screen and (max-width:1380px) {
