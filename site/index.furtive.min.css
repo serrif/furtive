@@ -673,8 +673,7 @@ table td,table th{
 	float:right
 }
 #fcopy{
-	margin-top:6rem;
-	margin-right:-2.3rem;
+	margin-top:0;
 	text-align:right;
 	font-size:1.02rem;
 	font-family:"Source Sans Pro","Helvetica Neue","Helvetica","Roboto","Arial",sans-serif;
