@@ -714,6 +714,22 @@ table td,table th{
 	#hchat img {
 		margin-left:-9rem
 	}
+	#fgrdrow{
+		border-bottom:.3rem solid #999
+	}
+	#flogo{
+		text-align:center;
+		margin-top:14rem;
+		width:unset;
+		float:unset
+	}
+	#fcopy{
+		margin-top:0;
+		margin-bottom:2.5rem;
+		width:unset;
+		float:unset;
+		margin-right:unset
+	}
 }
 
 @media only screen and (max-width:1024px) {
