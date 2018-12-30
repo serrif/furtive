@@ -727,6 +727,7 @@ table td,table th{
 		float:unset
 	}
 	#fcopy{
+		text-align:center;
 		margin-top:0;
 		margin-bottom:2.5rem;
 		width:unset;
@@ -767,5 +768,13 @@ table td,table th{
 	}
 	#hchat div.measure.p2 {
 		margin-right:0
+	}
+	#fgrdrow{
+		border-bottom:unset
+	}
+	#fcontact, #finfo, #fresc{
+		max-width:100%;
+		flex-basis:100%;
+		border-bottom:.3rem solid #999
 	}
 }
