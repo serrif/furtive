@@ -781,3 +781,15 @@ table td,table th{
 		margin-top:39rem
 	}
 }
+
+@media only screen and (max-width:767px) {
+	#fcontact ul, #finfo ul, #fresc ul{
+		margin-left:-.5rem
+	}
+}
+
+@media only screen and (max-width:511px) {
+	#fcontact ul, #finfo ul, #fresc ul{
+		margin-left:-1.2rem
+	}
+}
