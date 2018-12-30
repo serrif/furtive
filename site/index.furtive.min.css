@@ -777,4 +777,7 @@ table td,table th{
 		flex-basis:100%;
 		border-bottom:.3rem solid #999
 	}
+	#flogo{
+		margin-top:39rem
+	}
 }
