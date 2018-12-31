@@ -709,6 +709,9 @@ table td,table th{
 #psubhdr{
 	font-size:1.75rem
 }
+#plarge{
+	padding:0
+}
 #plargebanner{
 	font-size:2.8rem;
 	margin-top:-.5rem;
