@@ -694,12 +694,16 @@ table td,table th{
 	background-color:unset;
 	color:#999
 }
+#pwrapper{
+	padding-top:3rem;
+	padding-bottom:3rem
+}
 #pblank{
 	padding-top:0;
 	padding-bottom:0
 }
 #pbanner{
-	margin-top:.5rem;
+	margin-top:0;
 	text-align:center
 }
 #psubhdr{
