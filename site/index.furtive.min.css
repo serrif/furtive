@@ -724,7 +724,8 @@ table td,table th{
 	border-radius:10px
 }
 #plarge p{
-	text-align:center
+	text-align:center;
+	margin-bottom:0
 }
 
 /* Mobile support */
