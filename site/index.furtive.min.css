@@ -816,6 +816,9 @@ table td,table th{
 		float:unset;
 		margin-right:unset
 	}
+	#a1, #a2, #a3{
+		flex-basis:33.3333333333%
+	}
 	#a4, #a5{
 		flex-basis:50%;
 		margin-top:2rem;
