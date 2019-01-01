@@ -712,7 +712,7 @@ table td,table th{
 	margin-right:0;
 	margin-left:0
 }
-#pbanner #lbul, #pbanner #rbul, #pbanner #cbul{
+#pbanner #lbul, #psubhdr #lbul, #pbanner #rbul, #psubhdr #rbul, #pbanner #cbul, #psubhdr cbul{
 	height:.40rem;
 	width:.41rem;
 	margin-bottom:.55rem
