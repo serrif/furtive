@@ -736,11 +736,10 @@ table td,table th{
 #padmins{
 	padding-top:0;
 	padding-bottom:0;
-	max-width:none
+	max-width:75rem
 }
 #padmins .grd-row{
-	margin-top:2rem;
-	max-width:75rem
+	margin-top:2rem
 }
 #playerhead{
 	width:8rem;
