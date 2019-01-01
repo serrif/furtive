@@ -708,6 +708,11 @@ table td,table th{
 #rbul{
 	margin-left:.2rem
 }
+#pbanner #lbul, #pbanner #rbul{
+	height:.40rem;
+	width:.41rem;
+	margin:bottom:.55rem
+}
 
 /* Blank page temp */
 #pwrapper{
