@@ -694,7 +694,7 @@ table td,table th{
 	background-color:unset;
 	color:#999
 }
-#lbul, #rbul{
+#lbul, #rbul, #cbul{
 	background:#999;
 	border-radius:50%;
 	display:inline-block;
@@ -708,10 +708,14 @@ table td,table th{
 #rbul{
 	margin-left:.2rem
 }
-#pbanner #lbul, #pbanner #rbul{
+#cbul{
+	margin-right:0;
+	margin-left:0
+}
+#pbanner #lbul, #pbanner #rbul, #pbanner #cbul{
 	height:.40rem;
 	width:.41rem;
-	margin:bottom:.55rem
+	margin-bottom:.55rem
 }
 
 /* Blank page temp */
