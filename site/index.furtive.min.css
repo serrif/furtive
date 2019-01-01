@@ -695,7 +695,7 @@ table td,table th{
 	color:#999
 }
 #lbul, #rbul{
-	background:999;
+	background:#999;
 	border-radius:50%;
 	display:inline-block;
 	height:.55rem;
