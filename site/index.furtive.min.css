@@ -739,7 +739,8 @@ table td,table th{
 	max-width:none
 }
 #padmins .grd-row{
-	margin-top:2rem
+	margin-top:2rem;
+	max-width:75rem
 }
 #playerhead{
 	width:8rem;
@@ -765,7 +766,7 @@ table td,table th{
 #padmins p{
 	margin:0 auto;
 	margin-bottom:-.5rem;
-	max-width:75rem;
+	max-width:none;
 	text-align:center;
 	font-family:"Source Sans Pro","Helvetica Neue","Helvetica","Roboto","Arial",sans-serif;
 	font-size:1.02em
