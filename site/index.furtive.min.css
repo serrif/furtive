@@ -694,7 +694,7 @@ table td,table th{
 	background-color:unset;
 	color:#999
 }
-#lbul, #rbul, #cbul{
+#lbul, #rbul, #cbul, #sbul{
 	background:#999;
 	border-radius:50%;
 	display:inline-block;
@@ -712,7 +712,14 @@ table td,table th{
 	margin-right:0;
 	margin-left:0
 }
-#pbanner #lbul, #psubhdr #lbul, #pbanner #rbul, #psubhdr #rbul, #pbanner #cbul, #psubhdr #cbul{
+#sbul{
+	height:.40rem;
+	width:.41rem;
+	margin-right:.2rem;
+	margin-left:.2rem;
+	margin-bottom:.41rem
+}
+#pbanner #lbul, #pbanner #rbul, #pbanner #cbul{
 	height:.40rem;
 	width:.41rem;
 	margin-bottom:.55rem
