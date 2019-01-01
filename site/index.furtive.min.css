@@ -694,6 +694,22 @@ table td,table th{
 	background-color:unset;
 	color:#999
 }
+#lbul, #rbul{
+	background:999;
+	border-radius:50%;
+	display:inline-block;
+	height:.55rem;
+	width:.56rem;
+	margin-bottom:.75rem;
+}
+#lbul{
+	margin-right:.2rem
+}
+#rbul{
+	margin-left:.2rem
+}
+
+/* Blank page temp */
 #pwrapper{
 	padding-top:3rem;
 	padding-bottom:3rem
@@ -728,6 +744,8 @@ table td,table th{
 	margin-bottom:0;
 	padding:0 2rem 0
 }
+
+/* Admin roster */
 #padmwrap{
 	border-top:.3rem solid #999;
 	background:#eee;
