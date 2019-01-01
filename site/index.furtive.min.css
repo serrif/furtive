@@ -701,7 +701,7 @@ table td,table th{
 	background-color:unset;
 	color:#999
 }
-#lbul, #rbul, #cbul, #sbul{
+#lbul, #rbul, #cbul, #sbul, #abul{
 	background:#999;
 	border-radius:50%;
 	display:inline-block;
@@ -718,6 +718,13 @@ table td,table th{
 #cbul{
 	margin-right:0;
 	margin-left:0
+}
+#abul{
+	height:.20rem;
+	width:.21rem;
+	margin-right:.05rem;
+	margin-left:.05rem;
+	margin-bottom:.25rem
 }
 #sbul{
 	height:.40rem;
