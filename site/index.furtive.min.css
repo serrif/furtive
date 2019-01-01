@@ -819,6 +819,11 @@ table td,table th{
 	#a4, #a5{
 		flex-basis:50%;
 		margin-top:2rem;
+	}
+	#a4{
+		margin-left:auto
+	}
+	#a5{
 		margin-right:auto
 	}
 }
