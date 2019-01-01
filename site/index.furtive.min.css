@@ -471,6 +471,13 @@ table td,table th{
 	font-family: "Tiempos Headline",serif;
 	margin:.5rem 0 .5rem;
 }
+#header a{
+	text-decoration:none;
+	color:333
+}
+#header a:hover{
+	color:#444
+}
 
 /* Tag-specific honky-tonk */
 #hintro{
