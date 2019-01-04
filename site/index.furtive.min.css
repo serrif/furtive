@@ -820,6 +820,22 @@ table td,table th{
 	font-size:1.02em
 }
 
+/* Rules page */
+#rulesl{
+	padding:0 2rem 0;
+	padding-right:1rem;
+	margin-top:.5rem;
+	float:left
+}
+#ruleslhdr{
+	font-family:"Tiempos Headline",serif;
+}
+#ruleslpg{
+	margin-top:-.5rem;
+	margin-left:2.2rem;
+	text-align:left
+}
+
 /* Mobile support */
 @media only screen and (max-width:1380px) {
 	body {
