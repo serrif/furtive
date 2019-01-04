@@ -821,18 +821,18 @@ table td,table th{
 }
 
 /* Rules page */
-#rulesl{
+#leftrules h3{
 	padding:0 2rem 0;
 	padding-right:1rem;
-	margin-top:.5rem;
+	margin-top:-.45rem;
 	float:left;
 	font-size:2.8rem;
 	text-align:center
 }
-#ruleslhdr{
+#leftrules h4{
 	font-family:"Tiempos Headline",serif;
 }
-#ruleslpg{
+#leftrules p{
 	margin-top:-.5rem;
 	margin-left:2.2rem;
 	text-align:left!important
