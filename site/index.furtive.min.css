@@ -821,7 +821,7 @@ table td,table th{
 }
 
 /* Rules page */
-#leftrules h3{
+#leftrules h3, #rightrules h3{
 	padding:0 2rem 0;
 	padding-right:1rem;
 	margin-top:-.45rem;
@@ -829,13 +829,25 @@ table td,table th{
 	font-size:2.8rem;
 	text-align:center
 }
-#leftrules h4{
+#leftrules h4, #rightrules h4{
 	font-family:"Tiempos Headline",serif;
 }
-#leftrules p{
+#leftrules p, #rightrules p{
 	margin-top:-.5rem;
 	margin-left:2.2rem;
 	text-align:left!important
+}
+#rightrules h3{
+	float:right;
+	padding-right:2rem;
+	margin-top:-.65rem
+}
+#rightrules h4{
+	text-align:right
+}
+#rightrules p{
+	margin-left:inherit;
+	margin-right:2.2rem
 }
 
 /* Mobile support */
