@@ -2,8 +2,8 @@
 	font-family:'Tiempos Headline';
 	font-weight:700;
 	font-style:normal;
-	src:url("https://ir1x.github.io/furtive/assets/fonts/TiemposHeadlineWeb-Bold.eot");
-	src:url("https://ir1x.github.io/furtive/assets/fonts/TiemposHeadlineWeb-Bold.eot?#iefix") format("embedded-opentype"),url("https://ir1x.github.io/furtive/assets/fonts/TiemposHeadlineWeb-Bold.woff") format("woff"),url("https://ir1x.github.io/furtive/assets/fonts/TiemposHeadlineWeb-Bold.woff2") format("woff2")
+	src:url("https://aedi.app/assets/fonts/TiemposHeadlineWeb-Bold.eot");
+	src:url("https://aedi.app/assets/fonts/TiemposHeadlineWeb-Bold.eot?#iefix") format("embedded-opentype"),url("https://aedi.app/assets/fonts/TiemposHeadlineWeb-Bold.woff") format("woff"),url("https://aedi.app/assets/fonts/TiemposHeadlineWeb-Bold.woff2") format("woff2")
 }
 @font-face{
 	font-family:'Charter ITC TT';
