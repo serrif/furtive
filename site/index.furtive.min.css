@@ -954,6 +954,12 @@ table td,table th{
 	#flogo{
 		margin-top:39rem
 	}
+	#lefthandsrv{
+		margin-left:unset
+	}
+	#righthandsrv{
+		margin-right:unset
+	}
 }
 
 @media only screen and (max-width:767px) {
