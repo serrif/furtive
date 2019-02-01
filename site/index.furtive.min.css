@@ -973,3 +973,17 @@ table td,table th{
 		margin-left:-1.2rem
 	}
 }
+
+/* Scroll bar */
+::-webkit-scrollbar {
+  width:.3rem
+}
+::-webkit-scrollbar-track {
+  background:#fff
+}
+::-webkit-scrollbar-thumb {
+  background:#999 
+}
+::-webkit-scrollbar-thumb:hover {
+  background:#aaa
+}
