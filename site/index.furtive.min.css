@@ -976,7 +976,7 @@ table td,table th{
 
 /* Scroll bar */
 ::-webkit-scrollbar {
-  width:.4rem
+  width:.35rem
 }
 ::-webkit-scrollbar-track {
   background:#ddd
