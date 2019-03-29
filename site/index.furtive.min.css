@@ -610,7 +610,8 @@ table td,table th{
 	float:right
 }
 #hdevelop h3, #hchat h3{
-	margin:0
+	margin:0;
+	margin-top:-.5rem
 }
 #hchat h3{
 	text-align:right
