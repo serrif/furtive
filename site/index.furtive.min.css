@@ -753,6 +753,9 @@ table td,table th{
 	margin-top:0;
 	text-align:center
 }
+h5#pbanner{
+	margin-top:-.5rem
+}
 #psubhdr{
 	font-size:1.75rem
 }
