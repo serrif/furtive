@@ -780,7 +780,7 @@ h5#pbanner{
 }
 
 /* Admin roster */
-#padmwrap{
+#padmwrap, #prepwrap{
 	border-top:.3rem solid #999;
 	background:#eee;
 	padding-top:3rem;
