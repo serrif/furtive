@@ -745,7 +745,7 @@ table td,table th{
 	padding-top:3rem;
 	padding-bottom:3rem
 }
-#pblank, #padmins{
+#pblank, #padmins, #preport{
 	padding-top:0;
 	padding-bottom:0
 }
@@ -852,6 +852,27 @@ h5#pbanner{
 #rightrules p{
 	margin-left:inherit;
 	margin-right:2.2rem
+}
+
+/* File a report */
+#preport h4{
+	text-align:center
+}
+#preport .my2{
+	margin-bottom:0
+}
+#preport input, #preport textarea{
+	border:.2rem solid #ccc;
+	outline:none;
+	font-family:"Source Sans Pro","Helvetica Neue","Helvetica","Roboto","Arial",sans-serif;
+	font-size:1.02rem
+}
+#preport textarea{
+	padding-top:.2rem
+}
+#preport .btn{
+	border-radius:0;
+	margin:0
 }
 
 /* Mobile support */
