@@ -855,7 +855,7 @@ h5#pbanner{
 }
 
 /* File a report */
-#preport h4{
+#preport .h4{
 	text-align:center
 }
 #preport .my2{
