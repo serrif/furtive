@@ -867,6 +867,9 @@ h5#pbanner{
 	font-family:"Source Sans Pro","Helvetica Neue","Helvetica","Roboto","Arial",sans-serif;
 	font-size:1.02rem
 }
+#preport input:focus, #preport textarea:focus{
+	border:.2rem solid #999
+}
 #preport textarea{
 	padding-top:.2rem
 }
