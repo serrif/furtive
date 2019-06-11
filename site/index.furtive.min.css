@@ -516,6 +516,11 @@ img#hintroimg{
 #hintro div.measure.p2 p{
 	margin-bottom:0
 }
+#hintrocode{
+	font-family:Monaco,"Lucida Console",Courier,monospace;
+	border-bottom:2px solid #333;
+	width:fit-content
+}
 
 #tradition{
 	padding:0;
