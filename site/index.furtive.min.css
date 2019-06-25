@@ -510,9 +510,8 @@ table td,table th{
 img#hintroimg{
 	float:right;
 	height:19.9rem;
-	width:15rem;
+	width:33.5rem;
 	margin-left:2.5rem;
-	margin-right:18.5rem;
 	object-fit:cover
 }
 #hintro div.measure.p2{
