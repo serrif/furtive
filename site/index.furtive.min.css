@@ -539,8 +539,7 @@ img#hintroimg{
 img#hsurvivimg{
 	float:left;
 	height:19.9rem;
-	width:15rem;
-	margin-left:18.5rem;
+	width:33.5rem;
 	margin-right:2.5rem;
 	object-fit:cover
 }
@@ -558,7 +557,8 @@ img#hsurvivimg{
 }
 #hsurvivcode{
 	font-family:Monaco,"Lucida Console",Courier,monospace;
-	border-bottom:2px solid #333
+	border-bottom:2px solid #333;
+	margin-left:33rem
 }
 
 #home-duality{
