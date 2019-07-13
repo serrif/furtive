@@ -826,12 +826,16 @@ h5#pbanner{
 	margin-top:2rem
 }
 #playerhead{
-	width:8rem;
+	width:6rem;
 	margin:0 auto;
-	display:inherit
+	display:inherit;
+	image-rendering:pixelated;
+	filter:grayscale(1);
+	border:.3rem solid #ccc
 }
 #padmins hr{
 	width:7rem;
+	height:.4rem;
 	border-top:.3rem solid #999;
 	border-radius:10px
 }
