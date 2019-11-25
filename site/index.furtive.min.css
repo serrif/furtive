@@ -561,10 +561,11 @@ img#hsurvivimg{
 	border-top:.3rem solid #999
 }
 #hpanel1{
-	border-right:.15rem solid #999
+	background:#e3e7f8;
+	border-right:.3rem solid #999
 }
 #hpanel2{
-	border-left:.15rem solid #999
+	background:#eee
 }
 #hdiscord, #hchat{
 	padding:0;
@@ -573,14 +574,14 @@ img#hsurvivimg{
 	color:#333
 }
 #hdiscord{
-	background-color:#7289da33;
-	background-image:url(https://aedi.app/assets/svg/hintroimg.svg);
-	background-repeat:no-repeat;
-	background-position:32rem;
+	background-color:transparent;
+	background:url(https://aedi.app/assets/svg/array.svg) no-repeat 25.9rem;
 	background-size:auto
 }
 #hchat{
-	background-image:url('https://user-images.githubusercontent.com/13023526/51790610-45e7b900-215d-11e9-8913-759384767750.jpg');
+	background-color:transparent;
+	background:url(https://aedi.app/assets/svg/array.svg) no-repeat -16.8rem;
+	background-size:auto
 }
 #hdiscord div.measure.p2, #hchat div.measure.p2{
 	min-height:20rem;
