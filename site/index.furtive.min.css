@@ -570,14 +570,17 @@ img#hsurvivimg{
 #hpanel2{
 	border-left:.15rem solid #999
 }
-#hdevelop, #hchat{
+#hdiscord, #hchat{
 	padding:0;
 	background-position:center;
 	background-size:cover;
 	color:#fff
 }
-#hdevelop{
-	background-image:url('https://user-images.githubusercontent.com/13023526/51790597-26509080-215d-11e9-82c3-3dcc610a67ca.jpg');
+#hdiscord{
+	background-color:#7289da33;
+	background-image:url(https://aedi.app/assets/svg/hintroimg.svg);
+	background-repeat:no-repeat;
+	background-position:32rem
 }
 #hchat{
 	background-image:url('https://user-images.githubusercontent.com/13023526/51790610-45e7b900-215d-11e9-8913-759384767750.jpg');
