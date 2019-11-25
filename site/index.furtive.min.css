@@ -507,16 +507,11 @@ table td,table th{
 	border-bottom:.3rem solid #999;
 	background-color:#eee
 }
-img#hintroimg{
-	float:right;
-	height:19.9rem;
-	width:33.5rem;
-	margin-left:2.5rem;
-	object-fit:cover
-}
 #hintro div.measure.p2{
-	padding-top:3rem;
-	padding-bottom:3rem
+	text-align:center;
+	max-width:40rem;
+	padding-top:10rem;
+	padding-bottom:10rem
 }
 #hintro div.measure.p2 h3{
 	margin:0
