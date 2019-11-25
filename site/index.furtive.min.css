@@ -580,7 +580,8 @@ img#hsurvivimg{
 	background-color:#7289da33;
 	background-image:url(https://aedi.app/assets/svg/hintroimg.svg);
 	background-repeat:no-repeat;
-	background-position:32rem
+	background-position:32rem;
+	background-size:auto
 }
 #hchat{
 	background-image:url('https://user-images.githubusercontent.com/13023526/51790610-45e7b900-215d-11e9-8913-759384767750.jpg');
