@@ -505,7 +505,8 @@ table td,table th{
 #hintro{
 	padding:0;
 	border-bottom:.3rem solid #999;
-	background-color:#eee
+	background-color:#eee;
+	background:url(https://user-images.githubusercontent.com/13023526/51790586-fe612d00-215c-11e9-8f04-ae35ad972c53.jpg) no-repeat center
 }
 #hintro div.measure.p2{
 	text-align:center;
