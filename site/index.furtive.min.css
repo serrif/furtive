@@ -574,7 +574,7 @@ img#hsurvivimg{
 	padding:0;
 	background-position:center;
 	background-size:cover;
-	color:#fff
+	color:#333
 }
 #hdiscord{
 	background-color:#7289da33;
@@ -585,25 +585,17 @@ img#hsurvivimg{
 #hchat{
 	background-image:url('https://user-images.githubusercontent.com/13023526/51790610-45e7b900-215d-11e9-8913-759384767750.jpg');
 }
-#hdevelop div.measure.p2, #hchat div.measure.p2{
+#hdiscord div.measure.p2, #hchat div.measure.p2{
 	min-height:20rem;
 	max-width:42rem;
 	padding-top:3rem;
 	padding-bottom:3rem;
 }
-#hdevelop div.measure.p2{
+#hdiscord div.measure.p2{
 	margin-right:0
 }
 #hchat div.measure.p2{
 	margin-left:0
-}
-#hdevelop img{
-	max-height:20rem;
-	float:right;
-	position:absolute;
-	margin-left:32.5rem;
-	margin-top:-3rem;
-	filter:grayscale()
 }
 #hchat img{
 	max-height:20rem;
@@ -613,18 +605,18 @@ img#hsurvivimg{
 	margin-top:-3rem;
 	filter:grayscale()
 }
-#hdevelop p, #hchat p{
+#hdiscord p, #hchat p{
 	margin-top:.8rem;
 	max-width:30rem
 }
-#hdevelop p{
+#hdiscord p{
 	float:left
 }
 #hchat p{
 	text-align:right;
 	float:right
 }
-#hdevelop a, #hchat a{
+#hdiscord a, #hchat a{
 	margin-top:1.2rem;
 	margin-bottom:0;
 	background:#eee;
@@ -632,10 +624,10 @@ img#hsurvivimg{
 	font-family:"Source Sans Pro","Helvetica Neue","Helvetica","Roboto","Arial",sans-serif;
 	font-size:1.11rem;
 }
-#hdevelop a:hover, #hchat a:hover{
+#hdiscord a:hover, #hchat a:hover{
 	background:#ddd
 }
-#hdevelop a{
+#hdiscord a{
 	clear:left;
 	float:left
 }
@@ -643,7 +635,7 @@ img#hsurvivimg{
 	clear:right;
 	float:right
 }
-#hdevelop h3, #hchat h3{
+#hdiscord h3, #hchat h3{
 	margin:0;
 	margin-top:-.5rem
 }
