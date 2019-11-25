@@ -933,16 +933,13 @@ h5#pbanner{
 	#hpanel1 {
 		border-bottom:.3rem solid #999
 	}
-	#hdevelop div.measure.p2 {
+	#hdiscord div.measure.p2 {
 		margin-left:1rem;
 		margin-right:auto
 	}
 	#hchat div.measure.p2 {
 		margin-right:1rem;
 		margin-left:auto
-	}
-	#hdevelop img {
-		margin-left:39.5rem
 	}
 	#hchat img {
 		margin-left:-9rem
@@ -1008,13 +1005,13 @@ h5#pbanner{
 		float:none;
 		max-width:none
 	}
-	#hdevelop img, #hchat img {
+	#hdiscord img, #hchat img {
 		display:none
 	}
-	#hdevelop p, #hchat p {
+	#hdiscord p, #hchat p {
 		max-width:unset
 	}
-	#hdevelop div.measure.p2 {
+	#hdiscord div.measure.p2 {
 		margin-left:0
 	}
 	#hchat div.measure.p2 {
