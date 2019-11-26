@@ -1008,8 +1008,8 @@ h5#pbanner{
 		float:none;
 		max-width:none
 	}
-	#hdiscord img, #hchat img {
-		display:none
+	#hdiscord, #hchat {
+		background:none
 	}
 	#hdiscord p, #hchat p {
 		max-width:unset
